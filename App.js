@@ -6,6 +6,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import { createNavigationContainerRef } from "@react-navigation/native"
 import HomeScreen from './screens/HomeScreen'
 import ProfileScreen from './screens/ProfileScreen';
+import OptionsScreen from './screens/OptionsScreen'
 
 const Stack = createNativeStackNavigator()
 
@@ -33,13 +34,6 @@ function TabNav (props) {
    );
 }
 
-
-
-
-
-function OptionsScreen() {
-  return <View></View>
-}
 
 const ref = createNavigationContainerRef();
 

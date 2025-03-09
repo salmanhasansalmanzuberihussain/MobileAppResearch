@@ -1,5 +1,11 @@
-function ProfileScreen(props) {
-  return <View>
-     <Button title="Nav to options" onPress={() => props.navigation.navigate("Options")}></Button>
-  </View>
-}
+import { Text, View, StyleSheet, Button } from 'react-native';
+
+function OptionsScreen(props) {
+    return <View>
+        <Text>
+        Hello
+        </Text>
+    </View>
+  }
+
+  export default OptionsScreen
