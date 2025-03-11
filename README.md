@@ -1,3 +1,54 @@
+Salman Hasan Programming Skillset [Full Stack Developer] (Front End Developer) [5 Years] (Main Focus 30-75) [Expert this and try best to keep sharp elsewhere unless VC out] 
+
+Programming Languages Familiar With
+Javascript 
+
+Programs Familiar With
+Visual Studio Code
+Expo React Native
+NextJS
+Vercel
+Expo 
+
+Technical Skillsets
+DNS Hook Up Vercel 
+IP Hook Up Vercel 
+Visual Studio Code Basing 
+Bootstrap Integration CSS Styling 
+Navbar Integration [CSS Styling] 
+Footer Integration [CSS Styling] 
+Integration of Video Map Styling and Map Styling 
+Github Upload/Installation
+Expo React Native Mobile App Launches 
+Expo Integration Upload 
+Base System Expo React Native
+Stack Navigator Integration
+NFT Integration and NFT Marketplace [Ability to buy NFT Products using Metamask integration] 
+Stripe Integration with Simple Hookup 
+Words/Text Integration 
+ChatGTP Integration/Artificial intelligence Integration
+
+Research In Development [Backend] 
+User Authentication System
+- Clerk Integration 
+- Postman API
+- Crypto Integration
+- Front end Development Styling
+- Nodemailer Integration 
+- Insomnia Check 
+
+Things to Learn/Goals to Launch
+Subscription to Newsletter and Email Integration
+User Authentication/2FA [Strong Base System] 
+Store Integration
+Subscription Integration
+Web3 Integration 
+
+Main Concept
+Digital Banking System [Crypto Integration] Digital Banking 
+
+
+March 11th, 2025 [Focused Specifically on Mobile Integration]
 Add Simple Home Screen integration
 Add Images [Styles format], [Regular Format] 
 TouchOpacity to Article [Make image clickable to another screen] [Research] 
@@ -20,6 +71,33 @@ container: {
    height: 550,
    resizeMode: 'cover',
  },
+
+
+Specific Image Integration to have cross native. [Need Require and need image integration]
+SVG Reading Image
+Reorganize Features Introduction
+Update Vercel w/article integration
+Have to fix Vercel integration from Expo React Native Mobile App
+https://www.google.com/search?q=deploying+expo+react+native+to+vercel&oq=deploying+expo+react+native+to+vercel&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRiPAtIBCDU2NDNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+1. Building for Web with Expo:
+Run the build command: In your project's root directory, execute npx expo export --platform web. This command will generate a static build of your web application in a dist folder. 
+
+
+Test locally: You can optionally test your web app locally using npx expo serve. 
+
+
+You can also create a native build with the origin set to the local server URL. 
+
+
+2. Vercel Configuration (vercel.json):
+Create a vercel.json file: In your project's root directory, create a file named vercel.json and add the following configuration: 
+
+
+Integration to Apple Developer Google Developer
+
+
+
+
 
 
 Specific Image Integration to have cross native. [Need Require and need image integration]
