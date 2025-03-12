@@ -95,6 +95,14 @@ Create a vercel.json file: In your project's root directory, create a file named
 
 Integration to Apple Developer Google Developer
 
+March 12th, 2025
+Update of all programs
+Update of all features
+Styling of all features
+Specifics 
+Add Import of Screen with app.js 
+Using props from the mobile app integrate touchopacity and then insert each article
+
 
 
 
