@@ -113,3 +113,6 @@ SVG Reading Image
 Reorganize Features Introduction
 Update Vercel w/article integration
 
+3/13/2025
+Digital Strategy and Alignment. Adjusting to needs. Decision is to continue rolling every single day in hopes of top tier co-sign. Eventually will co-sign. If not no issue continue to always progress. 
+
