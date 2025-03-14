@@ -117,3 +117,6 @@ Update Vercel w/article integration
 Digital Strategy and Alignment. Adjusting to needs. Decision is to continue rolling every single day in hopes of top tier co-sign. Eventually will co-sign. If not no issue continue to always progress. 
 Footer Update [Website/AI]
 Image update instead of Video Integration [Website]
+
+3/14/2025
+Front end development. Change Margin and Roll Down
