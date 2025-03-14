@@ -119,4 +119,4 @@ Footer Update [Website/AI]
 Image update instead of Video Integration [Website]
 
 3/14/2025
-Front end development. Change Margin and Roll Down
+Front end development. Change Margin specifically for images.
