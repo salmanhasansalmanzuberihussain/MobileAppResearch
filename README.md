@@ -1,4 +1,5 @@
 Salman Hasan Programming Skillset [Full Stack Developer] (Front End Developer) [5 Years] (Main Focus 30-75) [Expert this and try best to keep sharp elsewhere unless VC out] 
+Must Track Progress. 5 Years Programming. 
 
 Programming Languages Familiar With
 Javascript 
@@ -164,4 +165,5 @@ Added italics
 Working on Changing Font Style
 Margin Top add to image
 Adjust px due to app not working. Must remove on react native. Added style with bold for whoissalmanhassan
+Adjusted Font Header Size 
 
