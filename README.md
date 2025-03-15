@@ -237,3 +237,4 @@ Added social space with gap for flexrow of icons
 }
 Margintop and removal of br to make mobile adjustments
 Adjusting Linkedin Specific Item for font awesome
+Adjusting Margins Between items to replicate website made by me [Salman Hassan]
