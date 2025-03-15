@@ -120,3 +120,6 @@ Front end development. Change Margin specifically for images.
 Change Colors of Navigation Bar using screen options
 Remove navigation bar with header shown
 
+3/15/2025
+Centered the navigation title bar
+
