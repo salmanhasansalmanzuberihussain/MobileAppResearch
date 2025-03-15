@@ -158,5 +158,5 @@ Centered the navigation title bar and added logo image
       );
     }
 
-Customizing Image to Vercel React Native App to feature and adding touch opacity
+Customizing Image to Vercel React Native App to feature and adding touch opacity w/ reverse function
 
