@@ -163,4 +163,5 @@ Adding text size under image for rights and adding margin left and margin top
 Added italics
 Working on Changing Font Style
 Margin Top add to image
+Adjust px due to app not working. Must remove on react native. Added style with bold for whoissalmanhassan
 
