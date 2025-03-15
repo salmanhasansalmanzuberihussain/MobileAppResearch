@@ -194,3 +194,4 @@ const DateTimeDisplay = () => {
 export default DateTimeDisplay;
 Installing reacticons
 Adding Social Icons
+Adjusting Icon Size changing colors and putting on row.
