@@ -121,5 +121,40 @@ Change Colors of Navigation Bar using screen options
 Remove navigation bar with header shown
 
 3/15/2025
-Centered the navigation title bar
+Centered the navigation title bar and added logo image
+    import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+    import { NavigationContainer } from '@react-navigation/native';
+    import HomeScreen from './screens/HomeScreen';
+    import SettingsScreen from './screens/SettingsScreen';
+    import { Image } from 'react-native';
+    
+    const Tab = createBottomTabNavigator();
+    
+    function MyTabs() {
+      return (
+        <Tab.Navigator
+          screenOptions={{
+            headerTitleAlign: 'center',
+            headerTitle: () => (
+              <Image
+                style={{ width: 150, height: 30 }}
+                source={require('./assets/logo.png')}
+                resizeMode="contain"
+              />
+            ),
+          }}
+        >
+          <Tab.Screen name="Home" component={HomeScreen} />
+          <Tab.Screen name="Settings" component={SettingsScreen} />
+        </Tab.Navigator>
+      );
+    }
+    
+    export default function App() {
+      return (
+        <NavigationContainer>
+          <MyTabs />
+        </NavigationContainer>
+      );
+    }
 
