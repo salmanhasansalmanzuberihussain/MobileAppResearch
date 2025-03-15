@@ -166,4 +166,4 @@ Working on Changing Font Style
 Margin Top add to image
 Adjust px due to app not working. Must remove on react native. Added style with bold for whoissalmanhassan
 Adjusted Font Header Size 
-
+Adding styling to date and specific heading to by salman hassan with font change
