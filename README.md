@@ -167,3 +167,27 @@ Margin Top add to image
 Adjust px due to app not working. Must remove on react native. Added style with bold for whoissalmanhassan
 Adjusted Font Header Size 
 Adding styling to date and specific heading to by salman hassan with font change
+Customized Date with Date-FNS installed 
+import React, { useState, useEffect } from 'react';
+import { Text } from 'react-native';
+import { format } from 'date-fns';
+
+const DateTimeDisplay = () => {
+  const [currentTime, setCurrentTime] = useState(new Date());
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setCurrentTime(new Date());
+    }, 1000); // Update every second
+
+    return () => clearInterval(intervalId); // Clean up interval on unmount
+  }, []);
+
+  return (
+    <Text>
+      {format(currentTime, 'MMMM dd, yyyy HH:mm:ss')}
+    </Text>
+  );
+};
+
+export default DateTimeDisplay;
