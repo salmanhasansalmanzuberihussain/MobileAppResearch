@@ -236,3 +236,4 @@ Added social space with gap for flexrow of icons
   gap: 10px;
 }
 Margintop and removal of br to make mobile adjustments
+Adjusting Linkedin Specific Item for font awesome
