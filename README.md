@@ -231,3 +231,7 @@ const MiddleHeading = () => {
 
 Using Linking was able to create icons with links to direct the user to a link
 Added social space with gap for flexrow of icons
+#box {
+  display: flex;
+  gap: 10px;
+}
