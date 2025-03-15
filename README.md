@@ -105,9 +105,6 @@ Using props from the mobile app integrate touchopacity and then insert each arti
 
 
 
-
-
-
 Specific Image Integration to have cross native. [Need Require and need image integration]
 SVG Reading Image
 Reorganize Features Introduction
@@ -122,3 +119,4 @@ Image update instead of Video Integration [Website]
 Front end development. Change Margin specifically for images.
 Change Colors of Navigation Bar using screen options
 Remove navigation bar with header shown
+
