@@ -235,3 +235,4 @@ Added social space with gap for flexrow of icons
   display: flex;
   gap: 10px;
 }
+Margintop and removal of br to make mobile adjustments
