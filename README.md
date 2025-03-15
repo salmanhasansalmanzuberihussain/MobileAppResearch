@@ -230,3 +230,4 @@ const MiddleHeading = () => {
  export default MiddleHeading;
 
 Using Linking was able to create icons with links to direct the user to a link
+Added social space with gap for flexrow of icons
