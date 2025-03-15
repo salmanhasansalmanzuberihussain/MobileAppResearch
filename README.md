@@ -162,4 +162,5 @@ Customizing Image to Vercel React Native App to feature and adding touch opacity
 Adding text size under image for rights and adding margin left and margin top 
 Added italics
 Working on Changing Font Style
+Margin Top add to image
 
