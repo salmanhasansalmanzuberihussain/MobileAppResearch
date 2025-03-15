@@ -195,3 +195,18 @@ export default DateTimeDisplay;
 Installing reacticons
 Adding Social Icons
 Adjusting Icon Size changing colors and putting on row.
+
+import React from 'react';
+import { View, Text } from 'react-native';
+
+const RowLayout = () => {
+  return (
+    <View style={{ flexDirection: 'row' }}>
+      <Text style={{ width: 100, height: 50, backgroundColor: 'lightblue' }}>Item 1</Text>
+      <Text style={{ width: 100, height: 50, backgroundColor: 'lightcoral' }}>Item 2</Text>
+      <Text style={{ width: 100, height: 50, backgroundColor: 'lightgreen' }}>Item 3</Text>
+    </View>
+  );
+};
+
+export default RowLayout;
