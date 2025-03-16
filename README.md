@@ -245,3 +245,4 @@ Updating Information about self from article and using styles.text to compelely 
 Added all information of list from the website I made [Mobile Version of Web Version I made myself] 
 Updated Paragraph of who is Salman Hassan with proper indents - 12:09PM March 16th, 2025
 Completing Multiple Entries of Article from Website to Mobile using css styling and expo react native integration
+2:05PM- Update Expo React Native articles
