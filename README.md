@@ -243,3 +243,4 @@ Making sure Mobile integration is in tact
 March 16th, 2025
 Updating Information about self from article and using styles.text to compelely style
 Added all information of list from the website I made [Mobile Version of Web Version I made myself] 
+Updated Paragraph of who is Salman Hassan with proper indents - 12:09PM March 16th, 2025
