@@ -1,6 +1,6 @@
 Salman Hasan Programming Skillset [Full Stack Developer] (Front End Developer) [5 Years] (Main Focus 30-75) [Expert this and try best to keep sharp elsewhere unless VC out] 
 Must Track Progress. 5 Years Programming. 
-Replication of my website programmed by me using my laptop from my house. 
+Replication of my website programmed by me using my laptop from my house. Actually [Salman Hassan] (HASSAN)
 
 Programming Languages Familiar With
 Javascript 
