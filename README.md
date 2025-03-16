@@ -239,3 +239,6 @@ Margintop and removal of br to make mobile adjustments
 Adjusting Linkedin Specific Item for font awesome
 Adjusting Margins Between items to replicate website made by me [Salman Hassan]
 Making sure Mobile integration is in tact
+
+March 16th, 2025
+Updating Information about self from article and using styles.text to compelely style
