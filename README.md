@@ -247,3 +247,4 @@ Updated Paragraph of who is Salman Hassan with proper indents - 12:09PM March 16
 Completing Multiple Entries of Article from Website to Mobile using css styling and expo react native integration
 2:05PM- Update Expo React Native articles
 Adjusting diaries on zub8eti.com and adding articles- 8:43pm [A bit of a buzz through computer]
+Updated book written by me now have to update bold later on. Took all day to get this done. Time to workout and then fix bold.
