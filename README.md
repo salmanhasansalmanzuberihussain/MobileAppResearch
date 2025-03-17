@@ -246,3 +246,4 @@ Added all information of list from the website I made [Mobile Version of Web Ver
 Updated Paragraph of who is Salman Hassan with proper indents - 12:09PM March 16th, 2025
 Completing Multiple Entries of Article from Website to Mobile using css styling and expo react native integration
 2:05PM- Update Expo React Native articles
+Adjusting diaries on zub8eti.com and adding articles- 8:43pm [A bit of a buzz through computer]
