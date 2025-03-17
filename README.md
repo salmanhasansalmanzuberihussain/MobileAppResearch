@@ -250,3 +250,6 @@ Completing Multiple Entries of Article from Website to Mobile using css styling 
 Adjusting diaries on zub8eti.com and adding articles- 8:43pm [A bit of a buzz through computer]
 Updated book written by me now have to update bold later on. Took all day to get this done. Time to workout and then fix bold.
 <img width="378" alt="Screenshot 2025-03-16 at 10 12 50 PM" src="https://github.com/user-attachments/assets/e7de1ef5-0706-463e-a6a2-78b3b0526949" />
+
+March 17th, 2025
+Add Bold to Font
