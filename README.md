@@ -254,3 +254,4 @@ Updated book written by me now have to update bold later on. Took all day to get
 March 17th, 2025
 Add Bold to Font [Used styles.text]
 Research how to add specific font. helvetica insert font direct to styles.text and go from there
+Adjusted specific font roles with different styles to adjust mobile display
