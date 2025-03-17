@@ -252,4 +252,5 @@ Updated book written by me now have to update bold later on. Took all day to get
 <img width="378" alt="Screenshot 2025-03-16 at 10 12 50 PM" src="https://github.com/user-attachments/assets/e7de1ef5-0706-463e-a6a2-78b3b0526949" />
 
 March 17th, 2025
-Add Bold to Font
+Add Bold to Font [Used styles.text]
+Research how to add specific font. helvetica insert font direct to styles.text and go from there
