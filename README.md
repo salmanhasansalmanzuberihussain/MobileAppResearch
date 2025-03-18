@@ -255,3 +255,6 @@ March 17th, 2025
 Add Bold to Font [Used styles.text]
 Research how to add specific font. helvetica insert font direct to styles.text and go from there
 Adjusted specific font roles with different styles to adjust mobile display
+
+March 18th, 2025
+All articles are injected properly [5 hour process] (Injected 6 new completely injected in app.js stack navigator and injected article template
