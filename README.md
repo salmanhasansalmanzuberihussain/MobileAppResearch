@@ -266,3 +266,4 @@ Adjusting Articles while enjoying life a bit with Image Adjustments
 Add images to articles
 Fix Button
 Insert video into mobile app
+Scroll horizontal view and hidden scrollbar
