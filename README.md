@@ -267,3 +267,7 @@ Add images to articles
 Fix Button
 Insert video into mobile app
 Scroll horizontal view and hidden scrollbar
+
+March 20th, 2025
+Android Video Integration, Reformatting All feauture screens to fix nobridge gap 
+Deployment Cross Native. Mobile IOS and Web Working. Android a bit slow
