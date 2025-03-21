@@ -271,3 +271,4 @@ Scroll horizontal view and hidden scrollbar
 March 20th, 2025
 Android Video Integration, Reformatting All feauture screens to fix nobridge gap 
 Deployment Cross Native. Mobile IOS and Web Working. Android a bit slow
+Added link of myself of my worldwide fame and diary and sharpening up Website That I own at this time. Waiting for Venture access to uplift or to be used for something grand due to amount of effort-Hassan
