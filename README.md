@@ -292,3 +292,6 @@ Import all videos on expo
 
 March 28th, 2025
 Inserting videos on expo and making sure all versions work
+
+March 30th, 2025
+Add bottom tab navigator with specific feature
