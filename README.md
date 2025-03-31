@@ -290,6 +290,8 @@ Add all videos for expo react native
 March 26th, 2025 [Blockage] (Must go around with new clips and all videos)
 Import all videos on expo 
 
+March 31st, 2025
+Adding Video Insert. Something to watch for is update of expo react native, so continue to program dont fall in love is my advice to myself and continue to stay in Princeton spirit. Not everything is about me in life. 
 March 28th, 2025
 Inserting videos on expo and making sure all versions work
 
