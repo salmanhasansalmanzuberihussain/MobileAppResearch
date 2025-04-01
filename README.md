@@ -301,3 +301,4 @@ Add bottom tab navigator with specific feature
 April 1st, 2025
 Added another section to stack navigator 
 Changed Icon
+Import Image to app.js
