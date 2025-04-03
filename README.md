@@ -308,3 +308,4 @@ Adjusted react native update myself
 Updated Subscription of Expo React Native Mobile App
 Install axios packages
 Work on template project and upload as much as possible
+Completing Return Privacy policies on laptop must stay sharper dont like people need them to cater here and then we go from there because too much cater waiting for princeton venture forward to open can take another 5 years dont care one day at a time. Important for growth. and USA and Saudi and Dubai [Places of interest]
