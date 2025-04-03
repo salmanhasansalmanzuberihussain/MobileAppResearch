@@ -307,3 +307,4 @@ April 3rd, 2025
 Adjusted react native update myself
 Updated Subscription of Expo React Native Mobile App
 Install axios packages
+Work on template project and upload as much as possible
