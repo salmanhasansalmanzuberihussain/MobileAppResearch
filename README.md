@@ -305,3 +305,4 @@ Import Image to app.js
 
 April 3rd, 2025
 Adjusted react native update myself
+Updated Subscription of Expo React Native Mobile App
