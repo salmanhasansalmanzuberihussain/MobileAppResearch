@@ -313,7 +313,5 @@ Working on checking templates on android and ios simulator
 Focus here is to focus specifically on the rebuild of Pakistan in the USA taking all my hardwork dumping it right in Princeton and then seeing how to venture off with a new Pakistan line USA SBA Disaster Loan. The rest will have to sit for people in charge of serious capital funds. No discussion, must use me a lot of in between fair game here due to no ethics.
 
 April 4th 2025
-Fixing quick junk issues for free and making sure USA is safe and sound and people align the way they need to as many have different incentives in life and I respect that. 
-Updating Subscription for Mobile App
-Research for AI Integration
-Have to go to Jummah. 
+Updating Subscription for Mobile App [Caught up here]
+
