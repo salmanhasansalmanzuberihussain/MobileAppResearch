@@ -309,6 +309,8 @@ Updated Subscription of Expo React Native Mobile App
 Install axios packages
 Work on template project and upload as much as possible
 Completing Return Privacy policies on laptop must stay sharper dont like people need them to cater here and then we go from there because too much cater waiting for princeton venture forward to open can take another 5 years dont care one day at a time. Important for growth. and USA and Saudi and Dubai [Places of interest]
+Working on checking templates on android and ios simulator
+Focus here is to focus specifically on the rebuild of Pakistan in the USA taking all my hardwork dumping it right in Princeton and then seeing how to venture off with a new Pakistan line USA SBA Disaster Loan. The rest will have to sit for people in charge of serious capital funds. No discussion, must use me a lot of in between fair game here due to no ethics.
 
 April 4th 2025
 Fixing quick junk issues for free and making sure USA is safe and sound and people align the way they need to as many have different incentives in life and I respect that. 
