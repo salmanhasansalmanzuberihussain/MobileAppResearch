@@ -321,4 +321,5 @@ Making Changes to Expo react native, ai app, showcasing on iphone to showcase ed
 Apple Upload Expo Integration
 Change App Names
 npm install -g eas cli
+Have to use npx for eas to use now [1 hour]
 
