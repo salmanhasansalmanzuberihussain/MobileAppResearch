@@ -315,6 +315,9 @@ Focus here is to focus specifically on the rebuild of Pakistan in the USA taking
 April 4th 2025
 Updating Subscription for Mobile App [Caught up here]
 
-April 5th, 2025
+April 5th, 2025 (Youtube Video Research Notjustdev) 
 Making Changes to Expo react native, ai app, showcasing on iphone to showcase education over inserted discs, although no issue. Win Win Situation
+Apple Upload Expo Integration
+Change App Names
+npm install -g eas cli
 
