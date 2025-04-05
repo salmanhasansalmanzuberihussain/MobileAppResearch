@@ -324,3 +324,6 @@ npm install -g eas cli
 Have to use npx for eas to use now [1 hour]
 Email and User Authentication
 Have to fix autoplay on mobile
+sudo rm -rf /Library/Developer/CommandLineTools
+sudo xcode-select --install
+Have to reinstall xcode and command tools due to audio
