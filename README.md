@@ -322,4 +322,5 @@ Apple Upload Expo Integration
 Change App Names
 npm install -g eas cli
 Have to use npx for eas to use now [1 hour]
+Email and User Authentication
 
