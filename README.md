@@ -316,6 +316,7 @@ April 4th 2025
 Updating Subscription for Mobile App [Caught up here]
 
 April 5th, 2025 (Youtube Video Research Notjustdev) 
+https://docs.expo.dev/eas-update/getting-started/ [Expo Research]
 Making Changes to Expo react native, ai app, showcasing on iphone to showcase education over inserted discs, although no issue. Win Win Situation
 Apple Upload Expo Integration
 Change App Names
