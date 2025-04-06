@@ -328,3 +328,4 @@ sudo rm -rf /Library/Developer/CommandLineTools
 sudo xcode-select --install
 Have to reinstall xcode and command tools due to audio
 Taking time to reinstall with ios simulator
+Sharpening up Mobile App, Adding Videos that are necessary
