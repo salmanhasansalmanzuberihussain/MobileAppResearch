@@ -330,3 +330,12 @@ Have to reinstall xcode and command tools due to audio
 Taking time to reinstall with ios simulator
 Sharpening up Mobile App, Adding Videos that are necessary
 Deleted the video play
+
+April 6th, 2025
+Added certificate formation  for push notfication 
+reuploaded build  
+eas build platform 
+eas ios --upload 
+etc... 
+Expo Build 
+etc...
