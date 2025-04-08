@@ -339,3 +339,9 @@ eas ios --upload
 etc... 
 Expo Build 
 etc...
+
+April 7th 2025
+Waiting for Apple to upload my mobile app made by myself. 
+
+April 8th 2025 
+Walking Princeton Library to showcase my work alone and the money becomes water. 
