@@ -340,6 +340,11 @@ etc...
 Expo Build 
 etc...
 
+April 17th, 2025
+Fixed Mobile App Working on Development Build Mobile Hookup 
+EAS needs fixing 
+Mobile Added Articles [Working Fine]
+
 April 7th 2025
 Waiting for Apple to upload my mobile app made by myself. 
 
