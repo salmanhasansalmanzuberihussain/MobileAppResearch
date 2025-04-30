@@ -350,3 +350,14 @@ Waiting for Apple to upload my mobile app made by myself.
 
 April 8th 2025 
 Walking Princeton Library to showcase my work alone and the money becomes water. 
+
+April 30th, 2025
+Updating Mobile App and working on launching my first mobile app.
+
+Places where I'm stuck [Requesting Computer Science Programming Health]
+User Authentication/2fa
+Store Integration
+Stripe Integration
+
+Main Concept 
+Create a high end brand using digital assets while living at home with family
